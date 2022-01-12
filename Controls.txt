@@ -1,0 +1,45 @@
+ * Right-click (or ctrl + left-click): place block
+
+ * Left-click: Remove block
+
+ * Middle-click: Pick block
+
+ * Q: Sprint
+
+ * Shift: Sneak
+
+ * W: Walk forward
+
+ * S: Walk backward
+
+ * A: Walk left
+
+ * D: Walk right
+
+ * E: Open inventory
+
+ * B: Toggle super Breaker
+
+ * Z: Zoom
+
+ * L: Toggle Spectator mode
+
+ * Enter: Toggle slab/stair mode
+
+ * Arrow Keys: look around
+
+ * P or Esc: pause/unpause
+
+ * 1-9 navigate hotbar
+
+ * Spacebar: jump
+
+ * Double jump: toggle flight
+
+ * Shift (flying): fly down
+
+ * Space (flying): fly up
+
+ * T: Reload textures
+
+ * ; (semicolon): Release the pointer without pausing (for screenshots)
